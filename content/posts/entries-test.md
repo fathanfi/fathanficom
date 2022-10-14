@@ -5,7 +5,7 @@ featuredImage: ../images/poma2022banner1200.jpg
 tags:
   - General
 author: Fathan Fisabilillah
-featured: false
+featured: true
 published: true
 ---
 P﻿oma test
